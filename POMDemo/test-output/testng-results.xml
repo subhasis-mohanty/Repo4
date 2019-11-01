@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43715" started-at="2019-09-20T20:31:31 IST" finished-at="2019-09-20T20:32:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43715" started-at="2019-09-20T20:31:31 IST" finished-at="2019-09-20T20:32:14 IST">
+      <class name="com.actitime.taskTest.TaskTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configBC" is-config="true" duration-ms="5033" started-at="2019-09-20T20:31:48 IST" finished-at="2019-09-20T20:31:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configBM" is-config="true" duration-ms="3561" started-at="2019-09-20T20:31:54 IST" finished-at="2019-09-20T20:31:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerTest(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="createCustomerTest" duration-ms="3290" started-at="2019-09-20T20:31:57 IST" data-provider="getExcelData" finished-at="2019-09-20T20:32:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tapas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[good ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configAM" is-config="true" duration-ms="435" started-at="2019-09-20T20:32:01 IST" finished-at="2019-09-20T20:32:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configBM" is-config="true" duration-ms="2206" started-at="2019-09-20T20:32:01 IST" finished-at="2019-09-20T20:32:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerTest(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="createCustomerTest" duration-ms="2405" started-at="2019-09-20T20:32:03 IST" data-provider="getExcelData" finished-at="2019-09-20T20:32:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[subhasis]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[good ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configAM" is-config="true" duration-ms="400" started-at="2019-09-20T20:32:06 IST" finished-at="2019-09-20T20:32:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configBM" is-config="true" duration-ms="2193" started-at="2019-09-20T20:32:06 IST" finished-at="2019-09-20T20:32:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerTest(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="createCustomerTest" duration-ms="2721" started-at="2019-09-20T20:32:08 IST" data-provider="getExcelData" finished-at="2019-09-20T20:32:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ewewe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wewewe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configAM" is-config="true" duration-ms="397" started-at="2019-09-20T20:32:11 IST" finished-at="2019-09-20T20:32:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.actitime.taskTest.TaskTest@6ebc05a6]" name="configAC" is-config="true" duration-ms="2917" started-at="2019-09-20T20:32:11 IST" finished-at="2019-09-20T20:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.actitime.taskTest.TaskTest -->
+      <class name="com.actitime.homeTest.HomeTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.actitime.homeTest.HomeTest@1dfe2924]" name="configBC" is-config="true" duration-ms="7634" started-at="2019-09-20T20:31:31 IST" finished-at="2019-09-20T20:31:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actitime.homeTest.HomeTest@1dfe2924]" name="configBM" is-config="true" duration-ms="5925" started-at="2019-09-20T20:31:38 IST" finished-at="2019-09-20T20:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.actitime.homeTest.HomeTest@1dfe2924]" name="homePageTest" duration-ms="7" started-at="2019-09-20T20:31:44 IST" finished-at="2019-09-20T20:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actitime.homeTest.HomeTest@1dfe2924]" name="configAM" is-config="true" duration-ms="465" started-at="2019-09-20T20:31:44 IST" finished-at="2019-09-20T20:31:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.actitime.homeTest.HomeTest@1dfe2924]" name="configAC" is-config="true" duration-ms="2960" started-at="2019-09-20T20:31:45 IST" finished-at="2019-09-20T20:31:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.actitime.homeTest.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
