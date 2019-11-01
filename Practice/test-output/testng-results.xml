@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="565" started-at="2019-09-20T13:25:04 IST" finished-at="2019-09-20T13:25:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="565" started-at="2019-09-20T13:25:04 IST" finished-at="2019-09-20T13:25:04 IST">
+      <class name="dataprovider.DataProviderTest">
+        <test-method status="PASS" signature="dataTest(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.DataProviderTest@6ddf90b0]" name="dataTest" duration-ms="10" started-at="2019-09-20T13:25:04 IST" data-provider="getExcelData" finished-at="2019-09-20T13:25:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tapas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[good ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.DataProviderTest@6ddf90b0]" name="dataTest" duration-ms="3" started-at="2019-09-20T13:25:04 IST" data-provider="getExcelData" finished-at="2019-09-20T13:25:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dds]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.DataProviderTest@6ddf90b0]" name="dataTest" duration-ms="1" started-at="2019-09-20T13:25:04 IST" data-provider="getExcelData" finished-at="2019-09-20T13:25:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dsd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+      </class> <!-- dataprovider.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
